@@ -6,6 +6,8 @@
 
 ## 阅读
 
+**[在线阅读：打开完整拉片网页 ↗](https://xwen111.github.io/find-your-pace-film-analysis/)**
+
 - **[完整 Markdown 分析](Find-Your-Pace-拉片分析.md)**：适合阅读、检索，以及提供给 AI 作为上下文。
 - **[HTML 图文交互版](Find-Your-Pace-拉片与AIGC制作研究.html)**：下载后用浏览器打开；配图已全部嵌入。原片定时回放需要联网，也可在弹窗选择本地原片。
 - **[30 个重点镜头的结构化数据](shot-notes.json)**：区分观察、解释与 AIGC 建议。
